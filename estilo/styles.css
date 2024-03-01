@@ -51,6 +51,7 @@ footer {
     width: 40%;
     box-sizing: border-box;
     margin-left:  0 auto 0 auto;
+    float: left;
 }   
 
 h2 {
