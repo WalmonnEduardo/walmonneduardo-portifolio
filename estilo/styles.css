@@ -43,7 +43,7 @@ menu
 }
 footer
 {
-    border: 30%;
+    border-left: 30%;
     background-color: black;
     height:50px;
     padding-top: 10px;
