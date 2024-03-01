@@ -59,4 +59,6 @@ h2 {
 }
 img{
     float: right;
+    width: auto;
+    height: auto;
 }
