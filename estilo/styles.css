@@ -57,3 +57,16 @@ h2 {
     color: white;
     font-size: 30px;
 }
+.secao
+{
+    float: left
+}
+.secao-imgwalmonn
+{
+    width: 20%;
+}
+.secao-conteudo
+{
+    width: 80%;
+}
+
