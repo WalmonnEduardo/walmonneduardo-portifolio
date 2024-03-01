@@ -67,7 +67,8 @@ h2 {
 }
 .secao-imgwalmonn
 {
-    width: 20%;
+    width: auto;
+    height: auto;
 }
 .secao-conteudo
 {
