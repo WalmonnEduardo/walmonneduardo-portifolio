@@ -49,6 +49,7 @@ footer {
     height: 50px;
     padding-top: 10px;
     width: 40%;
+    box-sizing: border-box;
 }
 
 h2 {
