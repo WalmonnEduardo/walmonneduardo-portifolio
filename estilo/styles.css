@@ -5,6 +5,7 @@
 header
 {
     padding: 15px 15px 15px 15px;
+    border-left: auto;
 }
 
 body {
