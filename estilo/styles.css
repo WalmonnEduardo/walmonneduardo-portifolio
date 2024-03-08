@@ -1,5 +1,8 @@
 *{
     width:0px;
     border:0px;
-    text-align: center;
+}
+body{
+    background-color: #201658;
+    text-decoration-color: white;
 }
