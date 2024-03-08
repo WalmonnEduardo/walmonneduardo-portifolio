@@ -9,10 +9,8 @@
 head{
     width: 100%;
 }
-header ul li a{
-    
-}
 body{
     background-color: #201658;
     color: white;
+    float:inline-end;
 }
