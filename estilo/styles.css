@@ -1,13 +1,15 @@
 *{
     border:0%;
     padding:0%;
+}
+head{
+    height: 100%;
+}
+head ul li a{
     text-align: center;
     float: left;
     text-decoration: none;
     color:white;
-}
-head{
-    width: 100%;
 }
 body{
     background-color: #201658;
