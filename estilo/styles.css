@@ -3,6 +3,7 @@
     padding:0%;
 }
 head{
+    background-color: aqua;
     height: 20%;
     height: 100%;
 }
@@ -15,5 +16,5 @@ menu ul li a{
 body{
     background-color: #201658;
     color: white;
-    float:inline-end;
+    float:left;
 }
