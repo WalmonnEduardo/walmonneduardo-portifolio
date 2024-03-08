@@ -19,6 +19,10 @@ body{
     float:left;
     height: 100%;
 }
+.section_conteudo{
+    float: left;
+    padding:80%;
+}
 .section_imgwalmonn{
-    float: left
+    float: right;
 }
