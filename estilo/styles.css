@@ -5,10 +5,11 @@
 head{
     width: 100%;
 }
-menu{
+menu ui li{
     text-align: center;
     float: left;
     text-decoration: none;
+    color:white;
 }
 body{
     background-color: #201658;
