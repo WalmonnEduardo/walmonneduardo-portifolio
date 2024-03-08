@@ -17,4 +17,8 @@ body{
     background-color: #201658;
     color: white;
     float:left;
+    height: 100%;
+}
+.section_imgwalmonn{
+    float: left
 }
