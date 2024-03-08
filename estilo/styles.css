@@ -1,15 +1,16 @@
 *{
     border:0%;
     padding:0%;
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    color:white;
 }
 head{
     width: 100%;
 }
 header ul li a{
-    text-align: center;
-    float: left;
-    text-decoration: none;
-    color:white;
+    
 }
 body{
     background-color: #201658;
