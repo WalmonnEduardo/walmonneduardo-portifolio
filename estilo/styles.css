@@ -7,7 +7,7 @@ head{
     height: 20%;
     height: 100%;
 }
-menu ul li a{
+a{
     text-align: center;
     float: left;
     text-decoration: none;
