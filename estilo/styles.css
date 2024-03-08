@@ -1,65 +1,77 @@
+header
+{
+    padding: 15% 15% 15% 15%;
+    border-left: auto;
+}
+
 body {
-    color: white;
-    background: #2727ff;
-    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    background-color: blue;
 }
 
 h1 {
-    font-size: 64px;
-    line-height: 56px;
-}
-
-h1 strong {
-    /* color: #00e5fc; */
-    color: yellow;
-}
-
-header ul li a {
     color: white;
-    text-decoration: none;
-    margin-right: 15px;
+    font-size: 60%;
 }
 
-header ul {
+p {
+    color: white;
+    font-size: 20%;
+}
+
+strong {
+    color: aqua;
+}
+
+ul {
     list-style: none;
-    padding-left: 0;
+    text-decoration: none;
+    margin-right: 15%;
 }
 
-header ul li {
+ul li {
     display: inline;
+}
+
+a {
+    text-decoration: none;
 }
 
 header,
 main,
 footer {
-    width: 80%;
-    margin: 0 auto; /*centralizar caixas na página*/
-    /* border: dotted yellow; */
+    margin: 50px 100px 50px 100px;
 }
 
-header {
-    padding: 12px 0 12px 0;
-}
-
-footer {
-    background: #00e5fc;
-}
-
-/* Estilização do layout */
-
-section {
-    box-sizing: border-box;
-    float: left;
-}
-
-.secao-conteudo {
-    width: 80%;
-}
-.secao-imagem {
-    width: 20%;
+menu {
+    text-align: center;
 }
 
 footer {
-    float: left;
+    background-color: black;
     height: 50px;
+    padding-top: 15px;
+    font-size: 20px;
+    width: 80%;
+    box-sizing: border-box;
+    margin:  0 auto 0 auto;
+    float: left;
+}   
+
+h2 {
+    color: white;
+    font-size: 30px;
 }
+.secao
+{
+    float: right
+}
+.secao-imgwalmonn
+{
+    width: auto;
+    height: auto;
+}
+.secao-conteudo
+{
+    width: 80%;
+}
+
