@@ -5,7 +5,7 @@
 head{
     width: 100%;
 }
-ui li{
+header ul li a{
     text-align: center;
     float: left;
     text-decoration: none;
